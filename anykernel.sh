@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Communist Kernel by JOJOBIZART@telegram
+kernel.string=Violet Kernel by JOJOBIZART@telegram
 do.devicecheck=0
 do.modules=0
 do.systemless=1
